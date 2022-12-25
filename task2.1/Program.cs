@@ -9,9 +9,7 @@ if (a < 8 && a > 0)
 {
     switch(a)
     {
-        case 1: 
-            Console.WriteLine ("Понедельник"); 
-            return;
+        case 1: Console.WriteLine ("Понедельник"); return;
         case 2: Console.WriteLine ("Вторник"); return;
         case 3: Console.WriteLine ("Среда"); return;
         case 4: Console.WriteLine ("Четверг"); return;
