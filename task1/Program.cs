@@ -12,6 +12,7 @@ Console.Write ("Введите число b: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
 if (a == b * b)
+// Можно записать как a == Math.Pow(b, 2)
     {         
         Console.WriteLine ("Число а является квадратом числа b"); 
     }
