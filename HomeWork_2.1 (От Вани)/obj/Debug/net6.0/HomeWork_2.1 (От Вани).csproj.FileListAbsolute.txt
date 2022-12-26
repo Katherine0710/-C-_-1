@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\bin\Debug\net6.0\HomeWork_2.1 (От Вани).exe
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\bin\Debug\net6.0\HomeWork_2.1 (От Вани).deps.json
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\bin\Debug\net6.0\HomeWork_2.1 (От Вани).runtimeconfig.json
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\bin\Debug\net6.0\HomeWork_2.1 (От Вани).dll
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\bin\Debug\net6.0\HomeWork_2.1 (От Вани).pdb
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).dll
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\refint\HomeWork_2.1 (От Вани).dll
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).pdb
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\HomeWork_2.1 (От Вани).genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\HomeWork_2.1 (От Вани)\obj\Debug\net6.0\ref\HomeWork_2.1 (От Вани).dll
