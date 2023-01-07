@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\(2)_HomeWork_2\obj\Debug\net6.0\(2)_HomeWork_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\(2)_HomeWork_2\obj\Debug\net6.0\(2)_HomeWork_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\(2)_HomeWork_2\obj\Debug\net6.0\(2)_HomeWork_2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\(2)_HomeWork_2\obj\Debug\net6.0\(2)_HomeWork_2.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Работа на семинарах\(2)_HomeWork_2\obj\Debug\net6.0\(2)_HomeWork_2.csproj.CoreCompileInputs.cache
