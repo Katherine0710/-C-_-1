@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2\\(2)_HomeWork_2.csproj": {}
+    "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2(Ваня)\\(2)_HomeWork_2(Ваня).csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2\\(2)_HomeWork_2.csproj": {
+    "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2(Ваня)\\(2)_HomeWork_2(Ваня).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2\\(2)_HomeWork_2.csproj",
-        "projectName": "(2)_HomeWork_2",
-        "projectPath": "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2\\(2)_HomeWork_2.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2(Ваня)\\(2)_HomeWork_2(Ваня).csproj",
+        "projectName": "(2)_HomeWork_2(Ваня)",
+        "projectPath": "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2(Ваня)\\(2)_HomeWork_2(Ваня).csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Обучение GeekBrains\\#3 Введение в C#\\Работа на семинарах\\(2)_HomeWork_2(Ваня)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -4,16 +4,19 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
+
 Console.Write("Введите число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 int length = a.ToString().Length;
 
 
-if (length==1 || length==2)
+if (length<3)
 {
     Console.WriteLine ("Третьей цифры нет");
 }
 else
 {
-    Console.WriteLine(length[3]);
+    int value1 = Convert.ToInt32("1" + new string('0',length-2));
+    int value2 = Convert.ToInt32("1" + new string('0',length-3));
+    Console.Write((a % value1 - a % value2) / value2);
 }
